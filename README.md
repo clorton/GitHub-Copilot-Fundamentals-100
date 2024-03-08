@@ -26,7 +26,7 @@ The GitHub Copilot Fundamentals 100 Workshop is designed for developers who want
 - **Ensuring code quality:** Strategies for maintaining code quality while leveraging GitHub Copilot’s suggestions 
 - **Overview of prompt engineering:** Introduction to prompt engineering techniques to guide GitHub Copilot’s suggestions and improve the relevance / accuracy of generated code 
 
-## This course contains 6 different lab sections all on the basics of how to use GitHub Copilot, lab handouts can be found in the `SelfPacedLabs` directory.
+## This course contains 6 different lab sections all on the basics of how to use GitHub Copilot, lab handouts can be found in the `lab-handouts` directory.
 
 ### Lab Topics Are As Follows: 
 
