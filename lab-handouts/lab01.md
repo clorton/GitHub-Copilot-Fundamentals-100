@@ -83,7 +83,6 @@ git push
 2. Press `Ctrl + I` to open GitHub Copilot Chat and paste the following comments to create a basic markdown editor
 
 ```
-/*
 Create a basic markdown editor in Next.js with the following features:
 - Use react hooks
 - Create a state for markdown with the default text "type markdown here"
@@ -92,7 +91,6 @@ Create a basic markdown editor in Next.js with the following features:
 - Support for basic markdown syntax like headers, bold, and italics 
 - Use React markdown npm package 
 - The markdown text and resulting HTML should be saved in the component's state and updated in real-time 
-*/
 ```
 3. This should prompt GitHub Copilot to generate code to produce a simple, unstyled, markdown editor
 
